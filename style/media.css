@@ -1,0 +1,128 @@
+@media(max-width:1260.98px){
+    .bg{
+        left: -10px;
+    }
+    .mk{
+        right: -10px;
+    }
+}
+@media(max-width:1140.98px){
+       
+        .account-info .container{
+            gap: 100px;
+            justify-content: center 
+            ;
+        }
+        .bo{
+            width: 60%;
+        }
+}
+@media(max-width:1070.98px){
+    .bory{
+        width: 75%;
+    }
+    .spin{
+        width: 75%;
+    }
+
+    .one-etap__phone{
+        width: 550px;
+    }
+    .header__nav{
+       justify-content: space-around;
+    }
+    .bo{
+        width: 80%;
+    }
+    .account-info .container{
+        flex-direction: column;
+    }
+    .vaz{
+        width: 70%;
+    }
+    .account-info__titles{
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .account-info__member-sign{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media(max-width:800.98px){
+    .header__nav {
+        flex-direction: column;
+        align-items: center ;
+    }
+    .header__btn{
+        padding: 20px;
+    }
+    .twitter .container{
+        flex-direction: column;
+    }
+    .two-phones .container{
+        flex-wrap: wrap;
+    }
+    .twice-etap .container{
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .socials{
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+@media(max-width:570.98px){
+    .one-etap__phone{
+        width: 500px;
+    }
+    .bg1{
+        left: 30px;
+    }
+    .meet__photos{
+       flex-direction: column;
+        gap: 0px;
+    }
+  .kl{
+    right: -10px;
+  }
+  .bory{
+    width: 100%;
+  }
+  .spin{
+    width: 100%;
+  }
+  .gat{
+    width: 80%;
+  }
+   
+}
+@media(max-width:400.98px){
+    .bg1{
+        left: 30px;
+    }
+  
+  .kl{
+    right: 10px;
+  }
+  .bory{
+    width: 100%;
+  }
+  .spin{
+    width: 100%;
+  }
+  .gat{
+    width: 80%;
+  }
+  .footer__join-ready{
+    width: 330px;
+  }
+  .footer__oku{
+    width: 300px;
+  }
+  .footer__tetx{
+    width: 300px;
+  }
+}
